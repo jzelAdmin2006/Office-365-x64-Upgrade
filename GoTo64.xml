@@ -1,0 +1,4 @@
+<Configuration>
+	<Add OfficeClientEdition="64" MigrateArch="TRUE">
+	</Add>
+</Configuration>
