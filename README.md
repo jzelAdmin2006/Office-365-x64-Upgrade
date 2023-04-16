@@ -6,6 +6,6 @@ This xml can be used to install the x64 version instead of the x32 version of Mi
 
 Then run the following command:
 
-- .\setup.exe /configure GoTo64.xml
+- .\OfficeSetup.exe /configure GoTo64.xml
 
 This xml doesn't change anything dramatic about the installation, it's simply a configuration that will make the installer use the x64 version.
